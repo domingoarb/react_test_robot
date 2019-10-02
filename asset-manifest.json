@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/domingoarb/react_test_robot/static/css/main.ab728e17.chunk.css",
-    "main.js": "/domingoarb/react_test_robot/static/js/main.2ae70256.chunk.js",
-    "main.js.map": "/domingoarb/react_test_robot/static/js/main.2ae70256.chunk.js.map",
-    "runtime-main.js": "/domingoarb/react_test_robot/static/js/runtime-main.c14dab77.js",
-    "runtime-main.js.map": "/domingoarb/react_test_robot/static/js/runtime-main.c14dab77.js.map",
-    "static/css/2.d284fd02.chunk.css": "/domingoarb/react_test_robot/static/css/2.d284fd02.chunk.css",
-    "static/js/2.791d43d6.chunk.js": "/domingoarb/react_test_robot/static/js/2.791d43d6.chunk.js",
-    "static/js/2.791d43d6.chunk.js.map": "/domingoarb/react_test_robot/static/js/2.791d43d6.chunk.js.map",
-    "index.html": "/domingoarb/react_test_robot/index.html",
-    "precache-manifest.1ebffa02413545f95f201b804778ff7a.js": "/domingoarb/react_test_robot/precache-manifest.1ebffa02413545f95f201b804778ff7a.js",
-    "service-worker.js": "/domingoarb/react_test_robot/service-worker.js",
-    "static/css/2.d284fd02.chunk.css.map": "/domingoarb/react_test_robot/static/css/2.d284fd02.chunk.css.map",
-    "static/css/main.ab728e17.chunk.css.map": "/domingoarb/react_test_robot/static/css/main.ab728e17.chunk.css.map",
-    "static/media/App.css": "/domingoarb/react_test_robot/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/react_test_robot/static/css/main.01232d45.chunk.css",
+    "main.js": "/react_test_robot/static/js/main.9648e990.chunk.js",
+    "main.js.map": "/react_test_robot/static/js/main.9648e990.chunk.js.map",
+    "runtime-main.js": "/react_test_robot/static/js/runtime-main.b0de8c31.js",
+    "runtime-main.js.map": "/react_test_robot/static/js/runtime-main.b0de8c31.js.map",
+    "static/css/2.d284fd02.chunk.css": "/react_test_robot/static/css/2.d284fd02.chunk.css",
+    "static/js/2.791d43d6.chunk.js": "/react_test_robot/static/js/2.791d43d6.chunk.js",
+    "static/js/2.791d43d6.chunk.js.map": "/react_test_robot/static/js/2.791d43d6.chunk.js.map",
+    "index.html": "/react_test_robot/index.html",
+    "precache-manifest.8c04774aa67b1417fb43df880caeb772.js": "/react_test_robot/precache-manifest.8c04774aa67b1417fb43df880caeb772.js",
+    "service-worker.js": "/react_test_robot/service-worker.js",
+    "static/css/2.d284fd02.chunk.css.map": "/react_test_robot/static/css/2.d284fd02.chunk.css.map",
+    "static/css/main.01232d45.chunk.css.map": "/react_test_robot/static/css/main.01232d45.chunk.css.map",
+    "static/media/App.css": "/react_test_robot/static/media/SEGA.12a3db8b.woff"
   }
 }
